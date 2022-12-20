@@ -22,7 +22,7 @@ The maximum number of validators supported is 21.
 ## Economic Model 
 The endogenous token on the chain is BNI; the transactions consume BNI  as gas fee.
 
-Miners pledge HT to become validator nodes. The reward of nodes is gas fee, which is distributed according to the mortgage proportion. 
+Miners pledge BNI to become validator nodes. The reward of nodes is gas fee, which is distributed according to the mortgage proportion. 
 
 ## Cross-Chain
 Assets such as BTC, ETH and stable coins can be mapped to Bitindi by an asset bridge. The realization method is to lock a certain amount of tokens on the original chain then generate a corresponding number of tokens on Bitindi. 
