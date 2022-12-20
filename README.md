@@ -121,13 +121,13 @@ chainid 4096
 
 #### PRC Mainnet
 
-[https://rpc-mainnet.bitindi.org](https://rpc-mainnet.bitindi.org)
-[wss://ws-mainnet.bitindi.org](wss://ws-mainnet.bitindi.org)
+https://rpc-mainnet.bitindi.org
+wss://ws-mainnet.bitindi.org
 
 #### PRC Testnet
 
-[https://rpc-mainnet.bitindi.org](https://rpc-testnet.bitindi.org)
-[wss://ws-testnet.bitindi.org](wss://ws-testnet.bitindi.org)
+https://rpc-mainnet.bitindi.org
+wss://ws-testnet.bitindi.org
 
 
 #### Blockchain Explorer
@@ -158,5 +158,5 @@ Dev@bitindi.org
 - All users and developers can participate in the current test environment and subsequent stages of Bitindi for free, and there is no charging scenario.
 - All users must distinguish the test environment from the Mainnet. The assets generated in the test environment have no value. Be aware of counterfeit currency fraud.
 - HBitini announces authorization, promotion and other collaborations only through the official social media platform. Developers and users should check carefully to avoid losses.
-- Do not misread the official website's (bitindi.com) (bitindi.org), and be cautious with private key phishing.
+- Do not misread the official website's https://bitindi.com https://bitindi.org, and be cautious with private key phishing.
 
