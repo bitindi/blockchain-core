@@ -24,7 +24,7 @@ The endogenous token on the chain is BNI; the transactions consume BNI  as gas f
 Miners pledge HT to become validator nodes. The reward of nodes is gas fee, which is distributed according to the mortgage proportion. 
 
 ## Cross-Chain
-Assets such as BTC, ETH and stable coins can be mapped to Bitindi by an asset bridge. The realization method is to lock a certain amount of tokens on the original chain then generate a corresponding number of tokens on Heco. 
+Assets such as BTC, ETH and stable coins can be mapped to Bitindi by an asset bridge. The realization method is to lock a certain amount of tokens on the original chain then generate a corresponding number of tokens on Bitindi. 
 
 HBitindi encourages developers to provide more decentralized cross-chain solution.  
 
@@ -37,7 +37,7 @@ The meta-transaction function is supported, which allows users to reduce gas fee
 - Meta-transaction function: gas fee reduction, effectively reducing the cost of developers and users on the chain.
 - Support cross-chain asset transfer to optimize users’ experience.
 
-## Four Stages of Heco
+## Four Stages of Bitindi
 
 <table >
     <tr style="background:rgba(0,0,0,0)" ><th colspan=5>Bitindi Technical Route</th> </tr>
