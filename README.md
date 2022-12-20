@@ -110,8 +110,8 @@ In Jan 2023, Bitindi will entered the "Spark" phase, which focuses on improving 
 ### Participate in Test Environment of Bitindi
 
 #### Official Website's
-www.bitindi.com
-www.bitindi.org
+- www.bitindi.com
+- www.bitindi.org
 
 #### Public Mainnet
 chainid 4099
@@ -121,13 +121,13 @@ chainid 4096
 
 #### PRC Mainnet
 
-https://rpc-mainnet.bitindi.org
-wss://ws-mainnet.bitindi.org
+- https://rpc-mainnet.bitindi.org
+- wss://ws-mainnet.bitindi.org
 
 #### PRC Testnet
 
-https://rpc-mainnet.bitindi.org
-wss://ws-testnet.bitindi.org
+- https://rpc-mainnet.bitindi.org
+- wss://ws-testnet.bitindi.org
 
 
 #### Blockchain Explorer
@@ -140,8 +140,8 @@ https://faucet.bitindi.org
 
 #### Technical Support Email
 
-Dev@bitindi.com
-Dev@bitindi.org
+- Dev@bitindi.com
+- Dev@bitindi.org
 
 
 ## Interact with Us on Social Media
