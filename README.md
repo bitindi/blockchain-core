@@ -127,7 +127,7 @@ chainid 4096
 
 #### PRC Testnet
 
-- https://rpc-mainnet.bitindi.org
+- https://rpc-testnet.bitindi.org
 - wss://ws-testnet.bitindi.org
 
 
