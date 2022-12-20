@@ -158,6 +158,6 @@ https://faucet.bitindi.org
 ## Risk Warning
 - All users and developers can participate in the current test environment and subsequent stages of Bitindi for free, and there is no charging scenario.
 - All users must distinguish the test environment from the Mainnet. The assets generated in the test environment have no value. Be aware of counterfeit currency fraud.
-- HBitini announces authorization, promotion and other collaborations only through the official social media platform. Developers and users should check carefully to avoid losses.
+- Bitini announces authorization, promotion and other collaborations only through the official social media platform. Developers and users should check carefully to avoid losses.
 - Do not misread the official website's https://bitindi.com https://bitindi.org, and be cautious with private key phishing.
 
