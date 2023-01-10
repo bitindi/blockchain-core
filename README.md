@@ -1,6 +1,8 @@
 
 ![bitchian](https://user-images.githubusercontent.com/119077822/208686842-6175b6a9-d652-4a4d-aa91-5def6a55ad81.png)
 
+[Audit Report](https://github.com/bitindi/bitindi/blob/main/audit-repots/bitindichain-audit-report.pdf)
+
 ## Introduction to Bitindi Chain
 Bitindi Chain (BITINDI) is a decentralized, high-efficiency and energy-saving public chain. It is compatible with smart contracts and supports high- performance transactions. The endogenous token of Bitindi is BNI and it adopts the BPoS consensus mechanism.
 
